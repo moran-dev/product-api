@@ -1,2 +1,2 @@
 # product-api
-Uma API para gerenciamento de produtos, com funcionalidades de CRUD, utilizando Node.js, TypeScript e GraphQL.
+An API for product management, with CRUD functionalities, using Node.js, TypeScript and GraphQL.
